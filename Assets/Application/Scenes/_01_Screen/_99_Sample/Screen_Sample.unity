@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37064326, g: 0.37811446, b: 0.35703325, a: 1}
+  m_IndirectSpecularColor: {r: 0.37064332, g: 0.37811446, b: 0.35703325, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -746,9 +746,9 @@ MonoBehaviour:
   m_IsApplyColorToChildren: 0
   m_EffectiveColorReplacing: 1
   m_EffectiveColor: {r: 1, g: 1, b: 1, a: 1}
-  m_LocalPosition: {x: 476.00003, y: 295.75, z: 0}
+  m_LocalPosition: {x: 393.50003, y: 237.25, z: 0}
   m_LocalRotation: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2322917, y: 1.2322917, z: 1.2322917}
+  m_LocalScale: {x: 0.98854166, y: 0.98854166, z: 0.98854166}
   m_LocalAlpha: 1
   m_MaterialType: 0
   m_SepiaDark: 0.1
@@ -1361,15 +1361,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2012228153}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ef8aae2cc86f1f449ff32ca23c7c6f1, type: 3}
+  m_Script: {fileID: 11500000, guid: dbab5eb4e7445dd468f78ba116602926, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_DisableTaskCancellation: 0
-  m_Screen: {fileID: 874551903}
-  m_Background: {fileID: 766322092}
-  m_BackgroundImages:
-  - {fileID: 21300000, guid: 795fe2a3f94d7af4b8e4969fa872bdb7, type: 3}
-  - {fileID: 21300000, guid: a62b543338266464eb1e11cf4a9bf4d1, type: 3}
-  - {fileID: 21300000, guid: d8e6e501cb407b841bd5014d48d3e0fb, type: 3}
-  - {fileID: 21300000, guid: 4cfca3adcf6a17e4eb93742f80cd6777, type: 3}
-  m_Version: {fileID: 0}
