@@ -41,7 +41,7 @@ using DSW.World ;
 namespace DSW
 {
 	/// <summary>
-	/// アプリケーションマネージャクラス Version 2022/10/03 0
+	/// アプリケーションマネージャクラス Version 2022/11/27 0
 	/// </summary>
 	public class ApplicationManager : SingletonManagerBase<ApplicationManager>
 	{
@@ -508,6 +508,9 @@ namespace DSW
 			facade.AddComponent<GZip>() ;
 
 			facade.AddComponent<WebView>() ;
+
+			// インタプリタ
+			facade.AddComponent<Interpreter>() ;
 		}
 
 		//-----------------------------------------------------------------

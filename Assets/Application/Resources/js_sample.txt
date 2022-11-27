@@ -6,6 +6,9 @@ function f(x)
 	b=3;
 
 	b-=1;
+	a++;
+
+	local abc
 
 	s = "あいうえお" ;
 	s2='かきくけこ';
